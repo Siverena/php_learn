@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00185588-b288-46a9-b3b0-adec2cbb1a82" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lesson_2/1_quiz.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_2/3_counting_on_fingers.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_2/taskmanager_v2/3.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.php" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_1/taskmanager_v1/2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.php" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_1/taskmanager_v1/3.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index_site_2.php" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_1/site_2/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index_site_3.php" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_1/site_3/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site_1.php" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_1/site_1/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site_2.php" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_1/site_2/site_2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_1/site_3/site_3.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2IUWqO8A4rQOMlbla3SzNYLQp6Z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lesson_2" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Web\xampp\htdocs\php_learn\project_1\lesson_2" />
+      <recent name="E:\Web\xampp\htdocs\php_learn\project_1\lesson_1\taskmanager_v1" />
+      <recent name="E:\Web\xampp\htdocs\php_learn\project_1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Web\xampp\htdocs\php_learn\project_1\lesson_1" />
+      <recent name="E:\Web\xampp\htdocs\php_learn\project_1\taskmanager_v1" />
+      <recent name="E:\Web\xampp\htdocs\php_learn\project_1\site_3" />
+      <recent name="E:\Web\xampp\htdocs\php_learn\project_1\site_2" />
+      <recent name="E:\Web\xampp\htdocs\php_learn\project_1\site_1" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00185588-b288-46a9-b3b0-adec2cbb1a82" name="Changes" comment="" />
+      <created>1670236831750</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670236831750</updated>
+      <workItem from="1670236832864" duration="411000" />
+      <workItem from="1670237318822" duration="1338000" />
+      <workItem from="1670406310834" duration="2674000" />
+      <workItem from="1670409746540" duration="4791000" />
+      <workItem from="1670414959917" duration="1206000" />
+      <workItem from="1670416215228" duration="13685000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
