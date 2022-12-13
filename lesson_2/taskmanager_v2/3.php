@@ -1,12 +1,16 @@
 <?php
 $name = readline("Укажите Ваше имя: ");
-$counter = readline("Сколько задач стоит перед вами сегодня? ");
+
+do {
+    $counter = (int)readline("Сколько задач стоит перед вами сегодня? ");
+}while($counter <= 0);
+
 $str = '';
 $allTime = 0;
 
 for($i=0;$i<$counter;$i++){
     $task = readline("Какая задача стоит перед вами сегодня? ");
-    $time = readline("Сколько примерно времени эта задача займет? ");
+    $time = (int)readline("Сколько примерно времени эта задача займет? ");
     $str = $str .  "- $task ({$time}ч)\n";
     $allTime += $time;
 }
