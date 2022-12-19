@@ -1,6 +1,6 @@
 <?php
-include_once 'user.php';
-include_once 'task.php';
+require_once 'user.php';
+require_once 'task.php';
 
 class Comment{
     private User $author;
@@ -12,8 +12,7 @@ class Comment{
      * @param Task $task
      * @param string $text
      */
-    public function __construct(User $author, Task $task, string $text)
-    {
+    public function __construct(User $author, Task $task, string $text){
         $this->author = $author;
         $this->task = $task;
         $this->text = $text;
@@ -22,16 +21,14 @@ class Comment{
     /**
      * @return string
      */
-    public function getText(): string
-    {
+    public function getText(): string{
         return $this->text;
     }
 
     /**
      * @return User
      */
-    public function getAuthor(): User
-    {
+    public function getAuthor(): User{
         return $this->author;
     }
 
