@@ -2,10 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00185588-b288-46a9-b3b0-adec2cbb1a82" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lesson_6/controller/IndexController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_6/controller/SecurityController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_6/controller/TaskController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_6/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_6/model/Task.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_6/model/TaskProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_6/model/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_6/model/UserProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_6/routes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_6/view/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_6/view/signin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_6/view/tasks.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_5/2/comment.php" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_5/2/comment.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_5/2/taskService.php" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_5/2/taskService.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_5/2/user.php" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_5/2/user.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_5/1/task.php" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_5/1/Task.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_5/1/user.php" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_5/1/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_5/2/comment.php" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_5/2/Comment.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_5/2/task.php" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_5/2/Task.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_5/2/taskService.php" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_5/2/TaskService.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_5/2/user.php" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_5/2/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_5/3/cart.php" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_5/3/Cart.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_5/3/product.php" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_5/3/Product.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,11 +70,11 @@
       <recent name="E:\Web\xampp\htdocs\php_learn\project_1\lesson_1\taskmanager_v1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Web\xampp\htdocs\php_learn\project_1\lesson_6" />
       <recent name="E:\Web\xampp\htdocs\php_learn\project_1\lesson_5\2" />
       <recent name="E:\Web\xampp\htdocs\php_learn\project_1\lesson_5\1" />
       <recent name="E:\Web\xampp\htdocs\php_learn\project_1" />
       <recent name="E:\Web\xampp\htdocs\php_learn\project_1\lesson_2" />
-      <recent name="E:\Web\xampp\htdocs\php_learn\project_1\lesson_1" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -76,6 +93,7 @@
       <workItem from="1670416215228" duration="13685000" />
       <workItem from="1670925835919" duration="19588000" />
       <workItem from="1671440446971" duration="24976000" />
+      <workItem from="1671809464831" duration="18535000" />
     </task>
     <servers />
   </component>
