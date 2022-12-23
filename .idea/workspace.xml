@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00185588-b288-46a9-b3b0-adec2cbb1a82" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson_4/1.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_4/2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_4/3.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_5/2/comment.php" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_5/2/comment.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_5/2/taskService.php" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_5/2/taskService.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_5/2/user.php" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_5/2/user.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,23 +39,25 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lesson_5/2" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Web\xampp\htdocs\php_learn\project_1\lesson_5\2" />
+      <recent name="E:\Web\xampp\htdocs\php_learn\project_1\lesson_5\1" />
       <recent name="E:\Web\xampp\htdocs\php_learn\project_1" />
       <recent name="E:\Web\xampp\htdocs\php_learn\project_1\lesson_2" />
       <recent name="E:\Web\xampp\htdocs\php_learn\project_1\lesson_1\taskmanager_v1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Web\xampp\htdocs\php_learn\project_1\lesson_5\2" />
+      <recent name="E:\Web\xampp\htdocs\php_learn\project_1\lesson_5\1" />
       <recent name="E:\Web\xampp\htdocs\php_learn\project_1" />
       <recent name="E:\Web\xampp\htdocs\php_learn\project_1\lesson_2" />
       <recent name="E:\Web\xampp\htdocs\php_learn\project_1\lesson_1" />
-      <recent name="E:\Web\xampp\htdocs\php_learn\project_1\taskmanager_v1" />
-      <recent name="E:\Web\xampp\htdocs\php_learn\project_1\site_3" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -72,7 +74,8 @@
       <workItem from="1670409746540" duration="4791000" />
       <workItem from="1670414959917" duration="1206000" />
       <workItem from="1670416215228" duration="13685000" />
-      <workItem from="1670925835919" duration="18768000" />
+      <workItem from="1670925835919" duration="19588000" />
+      <workItem from="1671440446971" duration="24976000" />
     </task>
     <servers />
   </component>
